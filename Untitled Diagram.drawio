@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="29.6.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="yFMIHVJeId4SeNqRZmy0">
-    <mxGraphModel dx="1644" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1632" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,11 +67,11 @@
             <mxPoint x="640" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EQEsjItagQPS_OzgCCb9-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Mulitilinear Kakeya&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Multilinear restriction&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="160" x="600" y="390" as="geometry" />
+        <mxCell id="EQEsjItagQPS_OzgCCb9-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Mulitilinear Kakeya&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Multilinear restriction&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(Lemma 2.3)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="600" y="390" as="geometry" />
         </mxCell>
-        <mxCell id="EQEsjItagQPS_OzgCCb9-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Refined decoupling&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="140" x="414.5" y="390" as="geometry" />
+        <mxCell id="EQEsjItagQPS_OzgCCb9-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Refined decoupling&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(Theorem 2.2)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="414.5" y="390" as="geometry" />
         </mxCell>
         <mxCell id="EQEsjItagQPS_OzgCCb9-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Lower-dimensional decoupling&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(Induction on dimensions)&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="220" x="110" y="390" as="geometry" />
@@ -107,7 +107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EQEsjItagQPS_OzgCCb9-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Broad estimate&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="130" x="519.5" y="500" as="geometry" />
+          <mxGeometry height="40" width="130" x="519.5" y="540" as="geometry" />
         </mxCell>
         <mxCell id="EQEsjItagQPS_OzgCCb9-25" edge="1" parent="1" source="EQEsjItagQPS_OzgCCb9-16" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EQEsjItagQPS_OzgCCb9-24" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -122,7 +122,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EQEsjItagQPS_OzgCCb9-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="weighted average" vertex="1">
-          <mxGeometry height="40" width="60" x="554.5" y="450" as="geometry" />
+          <mxGeometry height="40" width="60" x="554.5" y="480" as="geometry" />
         </mxCell>
         <mxCell id="EQEsjItagQPS_OzgCCb9-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Narrow estimate&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="130" x="155" y="560" as="geometry" />
